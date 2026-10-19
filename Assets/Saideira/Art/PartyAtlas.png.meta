@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 42f47465aedbfd547a60973aec92fbb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7941069258903504396
+    second: PartyAtlas_0
+  - first:
+      213: 5655140855581377392
+    second: PartyAtlas_1
+  - first:
+      213: 794935461280876527
+    second: PartyAtlas_2
+  - first:
+      213: 6339789685415609375
+    second: PartyAtlas_3
+  - first:
+      213: 5746931026490200580
+    second: PartyAtlas_4
+  - first:
+      213: 7610586202181650175
+    second: PartyAtlas_5
+  - first:
+      213: 8508958441326082374
+    second: PartyAtlas_6
+  - first:
+      213: -3556738558177532421
+    second: PartyAtlas_7
+  - first:
+      213: 5593615328957351992
+    second: PartyAtlas_8
+  - first:
+      213: 8424858274261127532
+    second: PartyAtlas_9
+  - first:
+      213: 667181573242193488
+    second: PartyAtlas_10
+  - first:
+      213: 8582986233754859272
+    second: PartyAtlas_11
+  - first:
+      213: -2258773738065500006
+    second: PartyAtlas_12
+  - first:
+      213: -1020101888294148384
+    second: PartyAtlas_13
+  - first:
+      213: -264984160938816741
+    second: PartyAtlas_14
+  - first:
+      213: 4023086205277612023
+    second: PartyAtlas_15
+  - first:
+      213: 7176084897637376570
+    second: PartyAtlas_16
+  - first:
+      213: 8878032846478984763
+    second: PartyAtlas_17
+  - first:
+      213: 6412613990422175732
+    second: PartyAtlas_18
+  - first:
+      213: -1311223026460791660
+    second: PartyAtlas_19
+  - first:
+      213: 1583999590347563967
+    second: PartyAtlas_20
+  - first:
+      213: 6113939670474098839
+    second: PartyAtlas_21
+  - first:
+      213: -7700584361270144944
+    second: PartyAtlas_22
+  - first:
+      213: -2136492172082939264
+    second: PartyAtlas_23
+  - first:
+      213: -4923937960993535323
+    second: PartyAtlas_24
+  - first:
+      213: 7696227086922337706
+    second: PartyAtlas_25
+  - first:
+      213: -4510025718253172056
+    second: PartyAtlas_26
+  - first:
+      213: 1934369101049466561
+    second: PartyAtlas_27
+  - first:
+      213: -6125217891568939740
+    second: PartyAtlas_28
+  - first:
+      213: 7413584675929371632
+    second: PartyAtlas_29
+  - first:
+      213: 9181262247785434792
+    second: PartyAtlas_30
+  - first:
+      213: -8734006562745346296
+    second: PartyAtlas_31
+  - first:
+      213: -7459100314495438642
+    second: PartyAtlas_32
+  - first:
+      213: -7246529700228393299
+    second: PartyAtlas_33
+  - first:
+      213: -4024487342126316457
+    second: PartyAtlas_34
+  - first:
+      213: -2998669250839126172
+    second: PartyAtlas_35
+  - first:
+      213: 818284936666156541
+    second: PartyAtlas_36
+  - first:
+      213: 2382445583202352232
+    second: PartyAtlas_37
+  - first:
+      213: -9162315526302006877
+    second: PartyAtlas_38
+  - first:
+      213: 6484540103039488943
+    second: Player
+  - first:
+      213: 7846318282239284944
+    second: Dancer
+  - first:
+      213: 1237285661103143546
+    second: Uncle
+  - first:
+      213: -6364496972161271041
+    second: Drink
+  - first:
+      213: 4473492142677930137
+    second: Table
+  - first:
+      213: -7236293369261829237
+    second: Grill
+  - first:
+      213: -2493872161434663304
+    second: Cooler
+  - first:
+      213: 7951225470398213589
+    second: Speaker
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 221.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3917dfdd6bdf950800000000000000
+      internalID: 6484540103039488943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dancer
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69687f7e8b3ec60800000000000000
+      internalID: 7846318282239284944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uncle
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abcbbd0c8bb2110800000000000000
+      internalID: 1237285661103143546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drink
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 444
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa374079b3cca7a0800000000000000
+      internalID: -6364496972161271041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b1d5f669051e30800000000000000
+      internalID: 4473492142677930137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grill
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8352aa2585839b90800000000000000
+      internalID: -7236293369261829237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooler
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87683767b7cf36dd0800000000000000
+      internalID: -2493872161434663304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaker
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 443
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddaf1c107d685e60800000000000000
+      internalID: 7951225470398213589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cooler: -2493872161434663304
+      Dancer: 7846318282239284944
+      Drink: -6364496972161271041
+      Grill: -7236293369261829237
+      PartyAtlas_0: -7941069258903504396
+      PartyAtlas_1: 5655140855581377392
+      PartyAtlas_10: 667181573242193488
+      PartyAtlas_11: 8582986233754859272
+      PartyAtlas_12: -2258773738065500006
+      PartyAtlas_13: -1020101888294148384
+      PartyAtlas_14: -264984160938816741
+      PartyAtlas_15: 4023086205277612023
+      PartyAtlas_16: 7176084897637376570
+      PartyAtlas_17: 8878032846478984763
+      PartyAtlas_18: 6412613990422175732
+      PartyAtlas_19: -1311223026460791660
+      PartyAtlas_2: 794935461280876527
+      PartyAtlas_20: 1583999590347563967
+      PartyAtlas_21: 6113939670474098839
+      PartyAtlas_22: -7700584361270144944
+      PartyAtlas_23: -2136492172082939264
+      PartyAtlas_24: -4923937960993535323
+      PartyAtlas_25: 7696227086922337706
+      PartyAtlas_26: -4510025718253172056
+      PartyAtlas_27: 1934369101049466561
+      PartyAtlas_28: -6125217891568939740
+      PartyAtlas_29: 7413584675929371632
+      PartyAtlas_3: 6339789685415609375
+      PartyAtlas_30: 9181262247785434792
+      PartyAtlas_31: -8734006562745346296
+      PartyAtlas_32: -7459100314495438642
+      PartyAtlas_33: -7246529700228393299
+      PartyAtlas_34: -4024487342126316457
+      PartyAtlas_35: -2998669250839126172
+      PartyAtlas_36: 818284936666156541
+      PartyAtlas_37: 2382445583202352232
+      PartyAtlas_38: -9162315526302006877
+      PartyAtlas_4: 5746931026490200580
+      PartyAtlas_5: 7610586202181650175
+      PartyAtlas_6: 8508958441326082374
+      PartyAtlas_7: -3556738558177532421
+      PartyAtlas_8: 5593615328957351992
+      PartyAtlas_9: 8424858274261127532
+      Player: 6484540103039488943
+      Speaker: 7951225470398213589
+      Table: 4473492142677930137
+      Uncle: 1237285661103143546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: bf3a594f397814044a9c29c734f94170
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5301774657179074405
+    second: Actors_0
+  - first:
+      213: -136523670395070406
+    second: Actors_1
+  - first:
+      213: -7067056032244544691
+    second: Actors_2
+  - first:
+      213: -362916552369768616
+    second: Actors_3
+  - first:
+      213: 2163442417716445162
+    second: Actors_4
+  - first:
+      213: -3213684764984526002
+    second: Actors_5
+  - first:
+      213: 3142892263879066496
+    second: Actors_6
+  - first:
+      213: -6720984271557383027
+    second: Actors_7
+  - first:
+      213: -2200131439535777479
+    second: Actors_8
+  - first:
+      213: 8240490126187725576
+    second: Actors_9
+  - first:
+      213: -8215686545986984092
+    second: Actors_10
+  - first:
+      213: -7210880559901967428
+    second: Actors_11
+  - first:
+      213: 4061225097839535403
+    second: Actors_12
+  - first:
+      213: 4012459220791701779
+    second: Actors_13
+  - first:
+      213: -7462933578166784703
+    second: Actors_14
+  - first:
+      213: 7208237195130208711
+    second: Actors_15
+  - first:
+      213: 3930664295964361277
+    second: Actors_16
+  - first:
+      213: 19842298650444517
+    second: Actors_17
+  - first:
+      213: 5231844166108910102
+    second: Actors_18
+  - first:
+      213: -8691367997929451263
+    second: Actors_19
+  - first:
+      213: -2555174744822707642
+    second: Actors_20
+  - first:
+      213: 7762845467937227145
+    second: Actors_21
+  - first:
+      213: 3034837044583993317
+    second: Actors_22
+  - first:
+      213: -3267465058472869589
+    second: Actors_23
+  - first:
+      213: -7334664106547185173
+    second: Actors_24
+  - first:
+      213: -7604775375665397741
+    second: Actors_25
+  - first:
+      213: 1424819041634031665
+    second: Actors_26
+  - first:
+      213: 4233622992638467368
+    second: Actors_27
+  - first:
+      213: 3978283881260978004
+    second: Actors_28
+  - first:
+      213: -4310462188659752008
+    second: Actors_29
+  - first:
+      213: -8696063120835927191
+    second: Actors_30
+  - first:
+      213: 5391907557997424996
+    second: Actors_31
+  - first:
+      213: -7470291132682506065
+    second: Actors_32
+  - first:
+      213: 6311442060194426604
+    second: Actors_33
+  - first:
+      213: -3331837623623759440
+    second: Actors_34
+  - first:
+      213: -3213010436287937547
+    second: Actors_35
+  - first:
+      213: -1529930613975151074
+    second: Actors_36
+  - first:
+      213: 7699248394791398992
+    second: Actors_37
+  - first:
+      213: 7247974729645268116
+    second: Actors_38
+  - first:
+      213: -8505938575402539120
+    second: Actors_39
+  - first:
+      213: -4151331792730916824
+    second: Actors_40
+  - first:
+      213: -5595098081597479843
+    second: Actors_41
+  - first:
+      213: -4237830596733627127
+    second: Actors_42
+  - first:
+      213: -3706409169304773281
+    second: Actors_43
+  - first:
+      213: -3194000488410525938
+    second: Actors_44
+  - first:
+      213: 5306844746315306300
+    second: Actors_45
+  - first:
+      213: 8722599524578625806
+    second: Actors_46
+  - first:
+      213: 5469985066681728322
+    second: Actors_47
+  - first:
+      213: 8567355727175593046
+    second: Actors_48
+  - first:
+      213: 1806064775068530294
+    second: Actors_49
+  - first:
+      213: -5298495646780617184
+    second: Actors_50
+  - first:
+      213: -8247046526003759338
+    second: Actors_51
+  - first:
+      213: 6249896811828898716
+    second: Actors_52
+  - first:
+      213: -955314577782681
+    second: Actors_53
+  - first:
+      213: 4344279915123944696
+    second: Host0
+  - first:
+      213: 417327477015341956
+    second: Host1
+  - first:
+      213: -4488862249066550214
+    second: Host2
+  - first:
+      213: 8991151676453339542
+    second: Dancer0
+  - first:
+      213: 1545115749856528015
+    second: Dancer1
+  - first:
+      213: 5834313821713532695
+    second: Dancer2
+  - first:
+      213: -9131556679217775306
+    second: Uncle0
+  - first:
+      213: 6897957954301389310
+    second: Uncle1
+  - first:
+      213: 4737040099485071153
+    second: Uncle2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 209
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Host0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fca3d9d09bf94c30800000000000000
+      internalID: 4344279915123944696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Host1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 836
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b62861125aac500800000000000000
+      internalID: 417327477015341956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Host2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 836
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c2ab6419b54b1c0800000000000000
+      internalID: -4488862249066550214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dancer0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691c8a400dcf6cc70800000000000000
+      internalID: 8991151676453339542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dancer1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 418
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864f0f869a517510800000000000000
+      internalID: 1545115749856528015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dancer2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 418
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71703636285a7f050800000000000000
+      internalID: 5834313821713532695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uncle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df0e0d491364180800000000000000
+      internalID: -9131556679217775306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uncle1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e6b566387abf50800000000000000
+      internalID: 6897957954301389310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uncle2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 418
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137b6906fd85db140800000000000000
+      internalID: 4737040099485071153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Actors_0: 5301774657179074405
+      Actors_1: -136523670395070406
+      Actors_10: -8215686545986984092
+      Actors_11: -7210880559901967428
+      Actors_12: 4061225097839535403
+      Actors_13: 4012459220791701779
+      Actors_14: -7462933578166784703
+      Actors_15: 7208237195130208711
+      Actors_16: 3930664295964361277
+      Actors_17: 19842298650444517
+      Actors_18: 5231844166108910102
+      Actors_19: -8691367997929451263
+      Actors_2: -7067056032244544691
+      Actors_20: -2555174744822707642
+      Actors_21: 7762845467937227145
+      Actors_22: 3034837044583993317
+      Actors_23: -3267465058472869589
+      Actors_24: -7334664106547185173
+      Actors_25: -7604775375665397741
+      Actors_26: 1424819041634031665
+      Actors_27: 4233622992638467368
+      Actors_28: 3978283881260978004
+      Actors_29: -4310462188659752008
+      Actors_3: -362916552369768616
+      Actors_30: -8696063120835927191
+      Actors_31: 5391907557997424996
+      Actors_32: -7470291132682506065
+      Actors_33: 6311442060194426604
+      Actors_34: -3331837623623759440
+      Actors_35: -3213010436287937547
+      Actors_36: -1529930613975151074
+      Actors_37: 7699248394791398992
+      Actors_38: 7247974729645268116
+      Actors_39: -8505938575402539120
+      Actors_4: 2163442417716445162
+      Actors_40: -4151331792730916824
+      Actors_41: -5595098081597479843
+      Actors_42: -4237830596733627127
+      Actors_43: -3706409169304773281
+      Actors_44: -3194000488410525938
+      Actors_45: 5306844746315306300
+      Actors_46: 8722599524578625806
+      Actors_47: 5469985066681728322
+      Actors_48: 8567355727175593046
+      Actors_49: 1806064775068530294
+      Actors_5: -3213684764984526002
+      Actors_50: -5298495646780617184
+      Actors_51: -8247046526003759338
+      Actors_52: 6249896811828898716
+      Actors_53: -955314577782681
+      Actors_6: 3142892263879066496
+      Actors_7: -6720984271557383027
+      Actors_8: -2200131439535777479
+      Actors_9: 8240490126187725576
+      Dancer0: 8991151676453339542
+      Dancer1: 1545115749856528015
+      Dancer2: 5834313821713532695
+      Host0: 4344279915123944696
+      Host1: 417327477015341956
+      Host2: -4488862249066550214
+      Uncle0: -9131556679217775306
+      Uncle1: 6897957954301389310
+      Uncle2: 4737040099485071153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
